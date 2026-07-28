@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin: 0;
     padding: 0;
     display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 .card-container {
-    background-color: #ffffff;
+    background-color: #b788e7;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
@@ -40,7 +40,7 @@ body {
 
 /* Styling for ClassList Manipulation - Pulsating ClassList */
 .alert-mode {
-    border: 3px solid #ef4444 !important;
+    border: 3px solid #406c80 !important;
     background-color: #fef2f2 !important;
     
     /* This links the element to our custom animation script below */
